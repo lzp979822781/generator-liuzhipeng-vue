@@ -1,7 +1,7 @@
 {
   "name": "generator-liuzhipeng-vue",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm发包测试",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
